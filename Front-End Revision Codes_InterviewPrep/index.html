@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>FrontEnd Revision</title>
+        <!--Below is internal CSS-->
+        <style> 
+
+            p{
+                color:red ;
+                background: blue;
+            }
+
+        </style>
+        
+        <!--Below is external CSS-->
+        <link rel ="stylesheet" href = "style.css">
+
+
+    </head>
+    <body>
+
+    <!-- Three ways to add CSS-> 1. Inline CSS 2.Internal CSS 3. External CSS-->
+
+    <!-- Below is inline CSS-->
+        <p > Hello World </p>
+        <p style="color:white;"> Hello World </p>
+        <p style="color:white;"> Hello World </p>
+        <h1> This is heading 1 </h1>
+        <h4> This is heading 4 </h4>
+
+        <ul>Ritesh</ul>
+        <ul>Kapse</ul>
+        <ul>Ravindra</ul>
+        <ul>Ok Bye</ul>
+
+        <ul style="color:white; background: blue;" >
+            <li>This is item 1 </li>
+            <li>This is item 2 </li>
+            <li>This is item 3 </li>
+        </ul>
+
+        <a href="https://www.google.com"> Add Link Here </a>
+
+        <table border=1>
+            <tr>
+                <td> This is first row in table </td>
+                <td> This is first row in table </td>
+            </tr>
+            <tr>
+                <td> This is second data in table </td>
+                <td> This is second data in table </td>
+            </tr>
+        </table>
+        
+        <!-- Identifiers (#) and classes (.)can be added to div-. 
+        There can be only one identifier in one doc with same name. 
+        There can be different classes with same name.-->
+
+        <div class="box1">
+            Some Text in container in div.
+        </div>
+
+        <div class ="box">
+            Some Identifier CSS in container in div.
+        </div>
+
+        <div class ="box1">
+            Some Text in container in div.
+        </div>
+
+        <div id ="box3"> <!-- this is for external .js file parameter passings-->
+           
+        </div>
+
+         <div id ="box4">
+           
+        </div>   
+
+         <div id ="box5">
+            This is for event listeners in .js file.
+        </div> 
+
+
+        <!-- <img src= "9.png"> -->
+
+        <form action="index.html" method = "GET">
+            <input type="text" name="name" placeholder = "Name">
+            <button type = "submit">SubmitButton</button>
+        </form>
+
+        
+        <!--External js by adding script -->
+        <script src="script.js"></script>
+
+        //<!-- Below is inline javascript. To see results, open browser and developer tools , console -->
+
+        <script> 
+
+            console.log('hello')
+
+        </script>
+
+    </body>
+</html>

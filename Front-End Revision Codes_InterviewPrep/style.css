@@ -1,0 +1,55 @@
+p{
+    color:orangered ;
+    background: green;
+    font-size: 50px;
+    font-style: italic;
+}
+
+/* <!--Margin makes outide space and padding makes inside space --> */
+
+.box{
+
+    width: 200px;
+    height: 200px;
+    background-color: orchid;
+    margin:10px;
+    padding: 10px;
+    position: relative;
+}
+
+#box3{
+
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin:10px;
+    padding: 10px;
+    position: relative;
+}
+
+#box4{
+
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin:10px;
+    padding: 10px;
+    position: relative;
+}
+
+.box1{
+
+    width: 200px;
+    height: 200px;
+    background-color: orchid;
+    margin:10px;
+    padding:10px;
+    border:2px solid red;
+    position: relative;
+    /* float: left; */
+        /* position: absolute;
+        top:0px;
+        left:0px; */
+
+
+}
