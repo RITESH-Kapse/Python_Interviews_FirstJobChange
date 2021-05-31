@@ -55,7 +55,11 @@ Interviews companies(Rejected so far)
 23. GammaStack - Python Dev - 4-5pm 20 May thursday
 24. Zensar coding round 2 - friday 6- 7pm - asked about sorting algorithms. Not selected.
 25. Siemens interview Automation testing. Asked Multi threading and stages. Rejected.
-
+26. BirlaSoft interview python dev- round 1 - they need more into AWS side
+27. Cognizant May 26 - 4-5pm Matlab Developer
+28. Persistent - Sunday 1-2 completed round 1 for ML engineer. No Response
+29. Virtusa 2nd round client -->  Thu May 27, 2021 3.30 - 4pm 
+30. kissflow python dev -- Thu May 27, 2021 4pm - 5pm - Rejected without reasons.
 
 
 Given Interviews companies(On Hold)
@@ -67,3 +71,4 @@ Given Interviews companies(On Hold)
 5. Credit Suisse - 2 rounds of interview completed. HR will get back 
 6. Wipro --Wednesday- Python and ML interview - 2-3 pm - HR will get back - 12 May --Position ON HOLD
 7. Persistent - Sunday 1-2 completed round 1 for ML engineer. No Response
+8. Globant Python - 2-3 pm
