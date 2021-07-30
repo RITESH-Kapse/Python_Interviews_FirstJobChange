@@ -81,6 +81,89 @@ Interviews companies(Rejected)
 47. Aera Technology - Python ML role - 17 June - 5pm-6pm
 48. CGI - python dev - 19 june- 12pm and 3.30pm tech and managment round clear --third will be client monday if feedback is positive.
 49. Wissen Technology python developer - round 2 - client interaction-- Mostly he asked about ML and NLP area.
-50. NvDia- Test Dev Role - python - 22 June - 2-3 pm- Completed round 1. It lasted for more than an hour of discussion.
 51. VVDC -- Python/Django/ -- Round 1 -- went ok ok
-53. GoComet | Backend Developer --29 June 2021 @ 08:00 PM. -- 
+52. GoComet | Backend Developer --29 June 2021 @ 08:00 PM. -- 
+
+Selected for 12 organizations below :
+
+1. Capgeminy -- Offer received.
+2. Genpact - Offer received.
+3. Sec Logic-- Offer received.
+4. Delta IoT -- Offer received.. 
+5. Utthunga Banglore -- Offer received.
+6. KPIT - Got offer letter.
+7. CitiusTech - Offer received. 
+8. Xoriant Technologies - Offer received.
+9. Persistent --Offer received.
+10.Synechron -- Offer received. 
+11. NviDia  - Offer received.
+12. NICE Ltd -- Offer received.
+
+
+Applied but no interviews : 
+1. marvell - referred by murade
+2. Amazon Data Engineer - referred- No mail yet
+3. Wireless - referred by chandrakant
+4. Cyena - no call
+
+Application Rejected after application:
+1. Veritas
+2. Citi Bank
+3. Amazon
+
+
+Also below listed companies yet to apply :
+1. Infosys
+2. E-zest
+3. Cummins
+4. T-systems
+5. John Deere
+6. 3DPLM
+7. HSBC
+8. GlobalLogic
+9. Mphasis
+10. InfoBeans
+11. MedLine
+12. Oracle
+13. Google
+14. Microsoft
+15. Tesla
+16. LinkedIn
+17. UberATG
+18. Fiero Technologies Limited
+19. Qualys
+20. Ola cabs
+Facebook
+Instagram
+Spotify
+Quora
+Netflix
+Dropbox
+Reddit
+
+Next Companies to switch (if required at worst case) Automotive companies
+1. Intel
+2. Qualcomm Technologies
+3. Tesla India
+4. Uber ATG
+5. Ola Electric
+6. John Deere
+7. Continental
+8. Benz
+9. Audi
+10. Amazon(SDE2 role)
+11. LinkedIn
+12. volkswagen
+13. Google
+14. Microsoft
+
+Extra
+1. Bosch
+2. Ford
+3. Nissan
+4. Mistibushi
+
+
+
+
+
